@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdutel
+- 👋 Hi, I’m Abdu Raheem
 - 👀 I’m interested in development
 - 🌱 I’m currently learning industry
 - 💞️ I’m looking to collaborate on products
