@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning industry
 - 💞️ I’m looking to collaborate on products
-- 📫 How to reach me abduraheem@tataelxsi.co.in
+- 📫 abduraheem@tataelxsi.co.in
 
 <!---
 abdutel/abdutel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
