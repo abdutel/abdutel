@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdu Raheem
-- 👀 I’m interested in development
-- 🌱 I’m currently learning industry
-- 💞️ I’m looking to collaborate on products
+- 👀 interested in development
+- 🌱 currently learning industry
+- 💞️ looking to collaborate on products
 - 📫 abduraheem@tataelxsi.co.in
 
 <!---
